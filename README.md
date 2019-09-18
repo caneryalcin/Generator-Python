@@ -5,6 +5,7 @@ This project aims to show how to use generators in python.
 # What is generator?
 
 Generators are objects to create iterable objects and don`t occupy memory.
+
 Generators are a simple way of creating iterators.
 
 Generator is a function that return an object(iterator) and it only return one value at a time.

@@ -19,5 +19,5 @@ Generator is a function that return an object(iterator) and it only return one v
 
     -Use the yield keyword
     -can contain more yield statement.
-    -Returns an iterator which means methods like __iter__() and __next__() are implemented automatically.
+    -Returns an iterator which means methods like __ __iter__ __() and __ __next__ __() are implemented automatically.
     -When the function ends,StopIteration is raise an error on further calls(not shown in this example)

@@ -1,7 +1,9 @@
 # Generator-Python
 
 This project aims to show how to use generators in python.
+
 ---
+
 # What is generator?
 
 Generators are objects to create iterable objects and don`t occupy memory.

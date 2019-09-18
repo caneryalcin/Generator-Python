@@ -10,7 +10,7 @@ Generators are objects to create iterable objects and don`t occupy memory.
 
 Generators are a simple way of creating iterators.
 
-Generator is a function that return an object(iterator) and it only return one value at a time.
+Generator is a function that returns an object(iterator) and it only returns one value at a time.
 
 
 ## Generators in Python: 

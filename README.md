@@ -12,11 +12,15 @@ Generator is a function that return an object(iterator) and it only return one v
 ## Differences between Generator function and a Normal function
 
   -Genetors use yield statement instead of return statement.
+  
   -Return statement terminates a function entirely but yield statement only gives a value when a function calls.
 
 ## Generators in Python: 
 
   -Use the yield keyword
+  
   -can contain more yield statement.
+  
   -Returns an iterator which means methods like __iter__() and __next__() are implemented automatically.
+  
   -When the function ends,StopIteration is raise an error on further calls(not shown in this example)
